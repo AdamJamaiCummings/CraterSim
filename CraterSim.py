@@ -5,7 +5,7 @@
 Created on Wed Oct 25 15:48:49 2017
 
 ASTR 3830 Project - Cratering Simulation
-Sam Settlage, Adam Cummings
+Adam Cummings
 Version 1.1
 """
 
